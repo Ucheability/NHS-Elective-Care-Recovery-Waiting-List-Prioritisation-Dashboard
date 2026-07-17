@@ -64,3 +64,17 @@ The dashboard focuses on the following key performance indicators (KPIs):
 - Highest Priority Score
 
 - Average Priority Score
+
+  ### Dashboard Preview
+
+#### Executive Summary Dashboard
+
+![Executive Summary](Dashboard%20Screenshots/Executive_Summary.png)
+
+#### Trust Analysis Dashboard
+
+![Trust Analysis](Dashboard%20Screenshots/Trust_Analysis.png)
+
+#### Priority Ranking Dashboard
+
+![Priority Ranking](Dashboard%20Screenshots/Priority_Ranking.png)
