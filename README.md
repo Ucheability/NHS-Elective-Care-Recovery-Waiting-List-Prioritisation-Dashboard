@@ -70,16 +70,20 @@ The dashboard focuses on the following key performance indicators (KPIs):
 #### Executive Summary Dashboard
 
 <a href="Executive_Summary.png">
-  <img src="Executive_Summary.png" width="800">
+  <img src="Executive_Summary.png" width="500">
 </a>
 
 #### Trust Analysis Dashboard
 
-![Trust Analysis](Trust_Analysis.png)
+<a href="Trust_Analysis.png">
+  <img src="Trust_Analysis.png" width="500">
+</a>
 
 #### Priority Ranking Dashboard
 
-![Priority Ranking](Priority_Ranking.png)
+<a href="Priority_Ranking.png">
+  <img src="Priority_Ranking.png" width="500">
+</a>
 ## 6. Analysis & Insights
 
 The dashboard highlights several important insights regarding NHS elective care demand, waiting list pressures, and trust-level performance during the 2024–25 reporting period.
