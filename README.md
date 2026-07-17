@@ -32,3 +32,17 @@ The dashboard was designed to answer the following key operational and performan
 - Which organisations may require additional resources to reduce treatment backlogs?
 
 - How can waiting list data support evidence-based capacity planning and recovery decision-making?
+
+## 3. Data Source
+
+Source: NHS England Referral to Treatment (RTT) Waiting Times Data.
+
+Reporting Period: April 2024 – March 2025.
+
+Coverage: NHS Trusts and Clinical Specialties across England.
+
+Dataset Contents: Reporting period, NHS trust information, treatment function (specialty) codes, specialty names, waiting list volumes, and RTT pathway measures.
+
+### Governance Note
+
+The dataset contains aggregated operational performance data published by NHS England and does not contain any patient-identifiable information. The analysis was conducted using publicly available healthcare performance data to support elective care recovery and waiting list management insights.
