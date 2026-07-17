@@ -112,3 +112,56 @@ Trust-level analysis reveals considerable variation in waiting list volumes acro
 The Priority Ranking page identifies NHS trusts requiring the greatest operational focus by combining waiting list size and specialty coverage into a Priority Score.
 
 This prioritisation model supports evidence-based decision-making by helping healthcare managers identify where elective care recovery initiatives may deliver the greatest impact.
+
+## 7. Tools & Techniques
+
+The project applied a structured data preparation, modelling, and visualisation workflow using Microsoft Power BI.
+
+### Tools & Technologies
+
+#### Power BI Desktop
+
+Dashboard development, data modelling, visualisation, report design, and interactive reporting.
+
+#### Power Query
+
+Data cleansing, transformation, column renaming, date conversion, and data preparation.
+
+#### DAX (Data Analysis Expressions)
+
+Creation of KPI measures including:
+
+- Total Patients Waiting
+- NHS Trust Count
+- Clinical Specialties Count
+- Priority Score
+- Average Priority Score
+- Highest Priority Score
+
+#### Microsoft Excel
+
+Initial data exploration, validation, pivot table analysis, and data quality checks.
+
+#### Data Visualisation
+
+- KPI Cards
+- Line Charts
+- Clustered Bar Charts
+- Ranking Tables
+- Conditional Formatting
+- Interactive Slicers
+- Multi-Page Dashboard Design
+
+### Techniques Applied
+
+- Data Cleaning and Validation
+- Data Transformation
+- Data Modelling
+- KPI Development
+- Waiting List Trend Analysis
+- Trust-Level Performance Analysis
+- Specialty Demand Analysis
+- Priority Scoring Modelling
+- Interactive Dashboard Design
+- Healthcare Operational Analytics
+- Data Storytelling
