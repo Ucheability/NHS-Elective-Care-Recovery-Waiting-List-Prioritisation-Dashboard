@@ -69,9 +69,9 @@ The dashboard focuses on the following key performance indicators (KPIs):
 
 #### Executive Summary Dashboard
 
-#### Executive Summary Dashboard
-
-![Executive Summary](Executive_Summary.png)
+<a href="Executive_Summary.png">
+  <img src="Executive_Summary.png" width="800">
+</a>
 
 #### Trust Analysis Dashboard
 
