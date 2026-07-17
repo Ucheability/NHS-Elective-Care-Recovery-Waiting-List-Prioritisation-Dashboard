@@ -70,19 +70,19 @@ The dashboard focuses on the following key performance indicators (KPIs):
 #### Executive Summary Dashboard
 
 <a href="Executive_Summary.png">
-  <img src="Executive_Summary.png" width="500">
+  <img src="Executive_Summary.png" width="650">
 </a>
 
 #### Trust Analysis Dashboard
 
 <a href="Trust_Analysis.png">
-  <img src="Trust_Analysis.png" width="500">
+  <img src="Trust_Analysis.png" width="650">
 </a>
 
 #### Priority Ranking Dashboard
 
 <a href="Priority_Ranking.png">
-  <img src="Priority_Ranking.png" width="500">
+  <img src="Priority_Ranking.png" width="650">
 </a>
 ## 6. Analysis & Insights
 
