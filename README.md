@@ -78,3 +78,37 @@ The dashboard focuses on the following key performance indicators (KPIs):
 #### Priority Ranking Dashboard
 
 ![Priority Ranking](Dashboard%20Screenshots/Priority_Ranking.png)
+
+## 6. Analysis & Insights
+
+The dashboard highlights several important insights regarding NHS elective care demand, waiting list pressures, and trust-level performance during the 2024–25 reporting period.
+
+### Key Findings
+
+- Total patient waiting lists exceeded 90 million records during the reporting period, demonstrating the scale of elective care demand across NHS England.
+
+- Manchester University NHS Foundation Trust recorded the highest waiting list volume and Priority Score, indicating significant operational pressure and recovery requirements.
+
+- Several NHS trusts consistently appeared among the highest-ranked organisations for waiting list size, highlighting opportunities for targeted recovery planning and resource allocation.
+
+- Trauma & Orthopaedics experienced the highest waiting list demand across clinical specialties, indicating sustained pressure on elective services.
+
+- Ear, Nose and Throat (ENT) services also recorded substantial waiting list volumes, contributing significantly to overall elective care demand.
+
+- Waiting list volumes fluctuated throughout the reporting period, highlighting the ongoing challenge of balancing capacity, demand, and recovery efforts.
+
+### Insights by Dashboard Page
+
+#### Executive Summary
+
+The Executive Summary page provides a high-level overview of NHS elective care demand, highlighting waiting list trends, trust-level performance, and specialty pressures across the healthcare system.
+
+#### Trust Analysis
+
+Trust-level analysis reveals considerable variation in waiting list volumes across NHS providers. Several trusts consistently reported substantially larger patient backlogs than others, indicating differences in demand, service capacity, and operational pressure.
+
+#### Priority Ranking
+
+The Priority Ranking page identifies NHS trusts requiring the greatest operational focus by combining waiting list size and specialty coverage into a Priority Score.
+
+This prioritisation model supports evidence-based decision-making by helping healthcare managers identify where elective care recovery initiatives may deliver the greatest impact.
