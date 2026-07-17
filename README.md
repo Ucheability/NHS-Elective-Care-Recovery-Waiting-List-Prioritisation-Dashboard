@@ -165,3 +165,41 @@ Initial data exploration, validation, pivot table analysis, and data quality che
 - Interactive Dashboard Design
 - Healthcare Operational Analytics
 - Data Storytelling
+
+## 8. Limitations
+
+This analysis is subject to several limitations:
+
+- The dataset represents aggregated operational reporting data and does not provide patient-level information.
+
+- The analysis is limited to the April 2024 – March 2025 reporting period and may not reflect longer-term trends in elective care demand.
+
+- Waiting list figures may be influenced by reporting practices, data submission schedules, and operational changes across NHS trusts.
+
+- The Priority Score is a simplified prioritisation model based on waiting list size and specialty coverage. It does not incorporate factors such as clinical urgency, patient complexity, workforce availability, or treatment outcomes.
+
+- Trust-level comparisons may be influenced by differences in population size, service provision, referral patterns, and organisational structure.
+
+- The analysis focuses on elective care waiting list performance and does not include financial, workforce, or capacity planning data that may influence recovery efforts.
+
+- Specialty-level analysis reflects reported RTT activity and may not fully capture variations in demand across clinical pathways.
+
+## 9. Recommendations
+
+Based on the analysis, the following recommendations may support improved elective care recovery planning and waiting list management across NHS Trusts:
+
+- Prioritise recovery initiatives for NHS trusts with the highest Priority Scores, as these organisations experience both large patient backlogs and broad specialty demand.
+
+- Continue monitoring waiting list trends to identify emerging pressure points and support proactive resource allocation.
+
+- Focus operational improvement programmes on specialties experiencing sustained demand, particularly Trauma & Orthopaedics and Ear, Nose and Throat (ENT) services.
+
+- Use trust-level benchmarking to identify high-performing organisations and share best practices across the NHS.
+
+- Extend the analysis across multiple years to identify seasonal patterns and long-term trends in elective care demand.
+
+- Incorporate additional factors such as workforce capacity, theatre utilisation, diagnostic performance, and clinical urgency into future prioritisation models.
+
+- Combine waiting list data with operational and workforce metrics to support more comprehensive healthcare planning and decision-making.
+
+- Regularly review trust performance to ensure recovery resources are targeted where they can achieve the greatest reduction in patient waiting times.
