@@ -46,3 +46,21 @@ Dataset Contents: Reporting period, NHS trust information, treatment function (s
 ### Governance Note
 
 The dataset contains aggregated operational performance data published by NHS England and does not contain any patient-identifiable information. The analysis was conducted using publicly available healthcare performance data to support elective care recovery and waiting list management insights.
+
+## 4. Key KPIs
+
+The dashboard focuses on the following key performance indicators (KPIs):
+
+- Total Patients Waiting
+
+- Number of NHS Trusts
+
+- Number of Clinical Specialties
+
+- Priority Score
+
+- Average Patients Waiting per Trust
+
+- Highest Priority Score
+
+- Average Priority Score
