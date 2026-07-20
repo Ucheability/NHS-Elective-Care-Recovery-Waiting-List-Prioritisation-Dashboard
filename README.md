@@ -209,3 +209,12 @@ Based on the analysis, the following recommendations may support improved electi
 - Combine waiting list data with operational and workforce metrics to support more comprehensive healthcare planning and decision-making.
 
 - Regularly review trust performance to ensure recovery resources are targeted where they can achieve the greatest reduction in patient waiting times.
+
+  ## Project Files
+
+- **NHS_Elective_Care_Recovery_Waiting_List_Prioritisation_Dashboard.pbix** — Power BI dashboard file.
+- **README.md** — Project documentation.
+- **Dashboard Screenshots/**
+  - Executive_Summary.png
+  - Trust_Analysis.png
+  - Priority_Ranking.png
